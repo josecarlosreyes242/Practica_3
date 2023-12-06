@@ -3,6 +3,7 @@
 
   
   ### Integrantes: 
+  
     -Ferrer Pichardo Geraldine
     -Hernandez Lopez Ernesto Nicolas
     -Jiménez Tirado Roberto Andrés
@@ -14,9 +15,11 @@
 Desarrollo del ejercicio 1:
 
 Este fue un ejercicio sencillo pues sólo fue cuestión de conectar la base de datos tienda a adminpg4 y extraer la lista de clientes VIP con el comando de SQL:
-SELECT *
-FROM Clientes_VIP
-De hecho, temiamos estar haciendo mal el ejercicio dado que el único cliente VIP que obteníamos (como mostramos en la imagen Clientes_VIP) fue Pedro Picapiedra
+
+    SELECT *
+    FROM Clientes_VIP
+
+De hecho, temiamos estar haciendo mal el ejercicio dado que el único cliente VIP que obteníamos (como mostramos en la imagen Clientes_VIP) fue Pedro Picapiedra, sin embargo dado que no vimos nada que pudiera estar mal decidimos continuar al ejercicio 2.
 
 Desarrollo del ejercicio 2:
 
