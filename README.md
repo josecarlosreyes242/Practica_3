@@ -24,3 +24,23 @@ De hecho, temiamos estar haciendo mal el ejercicio dado que el único cliente VI
 Desarrollo del ejercicio 2:
 
 Para este ejercicio primero conectamos la base de datos a postrgeSQL siguiendo las indicaciones de Fer y luego recuperamos el dataframe tienda.backout que contenía las tablas de donde obtuvimos la información requerida, decidimos realizar los 11 primeros incisos excetuando el inciso, exceptuando el inciso e) (es decir 10 incisos en total), prcurando seguir los ejemplos vistos en clase. 
+
+
+## Observaciones:
+
+### Ejercicio01
+Bien
+
+### Ejercicio02
+Mayormete está bien, pero no hay necesidad de concantenar nada, en el ejemplo del video era para juntar el nombre completo de la persona.
+Pero en estas consultas y en general se regresan las columnas por separado.
+Por otro lado se usó distinto de como != pero es <>.
+
+
+## Calificacion:
+
+- Ejercicio01 (2 pts): 2
+
+- Ejercicio02 (8 pts): 6
+
+### Total: 8
